@@ -1,4 +1,4 @@
-# YouAreARubbishPerson
+# You Are A Rubbish Person
 You truly are a rubbish person
 
 Made for Ludum Dare 40 Compo:
